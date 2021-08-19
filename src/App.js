@@ -29,7 +29,7 @@ const App = () => {
     <Container
       fluid
       id="markdown"
-      style={{ width: "70%", margin: "auto", maxWidth: "700px" }}
+      style={{ =width: "70%", margin: "auto", maxWidth: "700px" }}
     >
       <Row id="firstBox" style={{ marginTop: "20px" }}>
         <Col id="header">
